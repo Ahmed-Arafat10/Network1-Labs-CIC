@@ -202,5 +202,5 @@ either an external jack into which you can plug a network cable — or, in the
 case of a wireless network interface, an antenna.  
 <p>
 <img src="Pics/lab1_6.jpg"><br>
-network interface card (NIC)
+Network Interface Card (NIC)
 </p>
