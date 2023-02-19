@@ -59,16 +59,16 @@ it creates a small, circular magnetic field around the wire.
 - UTP cable often is installed using a Registered Jack 45 (RJ-45) connector, the RJ-45 is an eight-wire connector used commonly to connect computers onto a local-area network (LAN), especially Ethernets.
 
 <p>
-<img src="Pics/lab1_1.png">
+<img src="Pics/lab1_1.png"> <br>
 UTP Cable
 </p>
 <p>
-<img src="Pics/lab1_2.png">
+<img src="Pics/lab1_2.png"><br>
 STP Cable
 </p>
 
 <p>
-<img src="Pics/lab1_3.jpg">
+<img src="Pics/lab1_3.jpg"><br>
 RJ-45 connector
 </p>
 
@@ -83,7 +83,7 @@ RJ-45 connector
 
 
 <p>
-<img src="Pics/lab1_4.png">
+<img src="Pics/lab1_4.png"><br>
 10BASE-T Cable
 </p>
 
@@ -119,7 +119,7 @@ computer to the worldwide Internet are two separate but related tasks.
 ### Overview of Network Components
 
 <p>
-<img src="Pics/lab1_5.png">
+<img src="Pics/lab1_5.png"><br>
 Simple Computer Network
 </p>
 
@@ -140,7 +140,7 @@ a receptacle to which a network cable connects) and `repeats` that traffic
 out **all** the other ports. Remember, for the local area network (LAN),
 the hub is considered obsolete
 <p>
-<img src="Pics/lab1_8.jpg">
+<img src="Pics/lab1_8.jpg"><br>
 A Hub
 </p>
 
@@ -201,6 +201,6 @@ electronic circuit called the `network interface card (NIC)`. The network interf
 either an external jack into which you can plug a network cable — or, in the
 case of a wireless network interface, an antenna.  
 <p>
-<img src="Pics/lab1_6.jpg">
+<img src="Pics/lab1_6.jpg"><br>
 network interface card (NIC)
 </p>
