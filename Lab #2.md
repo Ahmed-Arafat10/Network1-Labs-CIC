@@ -2,6 +2,10 @@
 ### By Ahmed Arafat (Ahmed Mohamed Yousry)
 
 ### IP Address
+- An IP address is a unique address that identifies a device on the internet or a local network. 
+- IP stands for "Internet Protocol," which is the set of rules governing the format of data sent via the internet or local network.
+- In essence, IP addresses are the identifier that allows information to be sent between devices on a network: they contain location information and make devices accessible for communication. 
+- The internet needs a way to differentiate between different computers, routers, and websites. IP addresses provide a way of doing so and form an essential part of how the internet works.
 - The 32-bit IP Address groups 8 bits a time
 - Each group of 8 bits is an octet
 - Each of the four `octet` are separated by dot
@@ -55,7 +59,7 @@ C	       192-223          xxx.xxx.xxx              xxx
 
 1. Console (SWITCH CONSOLE PORT)
    - There are many ways to control Cisco devices. Some of them are for remote access ( like telnet, ssh etc. ) but what if your remote access is down ? You need to connect the device again ! This is why we need console port.
-   Console port of a switch or a router provides connection when you are at the same physical location with the device. You plug the console cable to the console port of the device and you can connect the IOS by this way.
+   Console port of a switch or a router provides connection when you are at the same physical location with the device. You plug the console cable to the console port of the device and you can connect the IOS by this way.<br>
      ![img_1.png](Pics/lab2_3.jpg)
    
 2. Telnet
@@ -63,12 +67,12 @@ C	       192-223          xxx.xxx.xxx              xxx
    Require active networking services and one active interface that is configured 
    - Telnet is a network protocol that allows a user to communicate with a remote device. It is a virtual terminal protocol used mostly by network administrators to remotely access and manage devices. Administrator can access the device by telnetting to the IP address or hostname of a remote device. 
    - To use telnet, you must have a software (Telnet client) installed. On a remote device, a Telnet server must be installed and running. Telnet uses the TCP port 23 by default.
-   - One of the greatest disadvantages of this protocol is that all data, including usernames and passwords, is sent in clear text, which is a potential security risk. This is the main reason why Telnet is rarely used today and is being replaced by a much secure protocol called SSH. 
+   - One of the greatest disadvantages of this protocol is that all data, including usernames and passwords, is sent in clear text, which is a potential security risk. This is the main reason why Telnet is rarely used today and is being replaced by a much secure protocol called SSH. <br>
    ![img_1.png](Pics/lab2_4.webp)
 3. SSH
    - Remote login similar to Telnet but utilizes more security Stronger password authentication Uses encryption when transporting data
    - SSH is a network protocol used to remotely access and manage a device. The key difference between Telnet and SSH is that SSH uses encryption, which means that all data transmitted over a network is secure from eavesdropping. SSH uses the public key encryption for such purposes.
-     Like Telnet, a user accessing a remote device must have an SSH client installed. On a remote device, an SSH server must be installed and running. SSH uses the TCP port 22 by default.
+     Like Telnet, a user accessing a remote device must have an SSH client installed. On a remote device, an SSH server must be installed and running. SSH uses the TCP port 22 by default. <br>
      ![img_1.png](Pics/lab2_5.png)
 
 
